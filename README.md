@@ -42,3 +42,5 @@ My name is Luis, and I come from [Spain](https://en.wikipedia.org/wiki/Spain) wh
 [![testlink-xmlrpc Card](https://github-readme-stats.vercel.app/api/pin/?username=Nyaran&repo=testlink-xmlrpc&show_owner=true&theme=github_dark)](https://github.com/Nyaran/testlink-xmlrpc)
 ### &#129302; Home Automation
 [![myjdownloader-card Card](https://github-readme-stats.vercel.app/api/pin/?username=Nyaran&repo=myjdownloader-card&show_owner=true&theme=github_dark)](https://github.com/Nyaran/myjdownloader-card)
+### ⏬ Downloads
+[![myjdownloader-card Card](https://github-readme-stats.vercel.app/api/pin/?username=Nyaran&repo=myjdownloader-card&show_owner=true&theme=github_dark)](https://github.com/Nyaran/myjdownloader-card)
