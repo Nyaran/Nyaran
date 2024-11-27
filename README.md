@@ -38,7 +38,7 @@ My name is Luis, and I come from [Spain](https://en.wikipedia.org/wiki/Spain) wh
 
 ## &#x1F9D1;&#x200D;&#x1F4BB; Projects
 ### ⚙ Testing
-[![gplint Card](https://github-readme-stats.vercel.app/api/pin/?username=gplint&repo=gplint&show_owner=false&theme=github_dark)](https://github.com/Nyaran/gplint)
+[![gplint Card](https://github-readme-stats.vercel.app/api/pin/?username=gplint&repo=gplint&show_owner=false&theme=github_dark)](https://github.com/gplint/gplint)
 [![testlink-xmlrpc Card](https://github-readme-stats.vercel.app/api/pin/?username=Nyaran&repo=testlink-xmlrpc&show_owner=false&theme=github_dark)](https://github.com/Nyaran/testlink-xmlrpc)
 ### &#129302; Home Automation
 [![myjdownloader-card Card](https://github-readme-stats.vercel.app/api/pin/?username=Nyaran&repo=myjdownloader-card&show_owner=false&theme=github_dark)](https://github.com/Nyaran/myjdownloader-card)
